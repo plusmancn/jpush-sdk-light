@@ -1,0 +1,24 @@
+{
+  "name": "jpush-sdk-light",
+  "version": "0.1.0",
+  "description": "A simple wrap of JPush V3 Api in Nodejs, it was used by dasouche.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusmancn/jpush-sdk-light.git"
+  },
+  "keywords": [
+    "jpush",
+    "node",
+    "sdk"
+  ],
+  "author": " <plusmancn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plusmancn/jpush-sdk-light/issues"
+  },
+  "homepage": "https://github.com/plusmancn/jpush-sdk-light#readme"
+}
